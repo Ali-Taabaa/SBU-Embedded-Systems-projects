@@ -1,7 +1,5 @@
 # Inverted Pendulum Simulation – Exercise 1
 
-## Project Overview
-
 In this exercise, we modeled the dynamics of an inverted pendulum system using Newtonian mechanics and implemented the plant in MATLAB Simulink. Then, we designed and tested a feedback controller to stabilize the pendulum in its upright position.
 
 ### Mathematical Model
