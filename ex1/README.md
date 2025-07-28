@@ -12,14 +12,7 @@ In this exercise, we modeled the dynamics of an inverted pendulum system using N
 
 The equations of motion used for the inverted pendulum system are:
 
-
-$$
-(M + m)\ddot{x} + ml\ddot{\theta} = u
-$$
-
-$$
-ml^2\ddot{\theta} + ml\ddot{x} = mgl\theta
-$$
+<img width="597" height="243" alt="image" src="https://github.com/user-attachments/assets/9b75b719-c1d1-48a8-a9fe-220627051ade" />
 
 
 Where:
