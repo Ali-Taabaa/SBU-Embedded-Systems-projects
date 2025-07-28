@@ -1,9 +1,5 @@
 # Inverted Pendulum Simulation – Exercise 1
 
-## Course Information
-
-This repository contains Exercise 1 of the *Fundamentals of Embedded and Real-Time Systems* course, Spring 1404, Shahid Beheshti University. The project focuses on modeling, simulating, and controlling an inverted pendulum mounted on a motorized cart.
-
 ## Project Overview
 
 In this exercise, we modeled the dynamics of an inverted pendulum system using Newtonian mechanics and implemented the plant in MATLAB Simulink. Then, we designed and tested a feedback controller to stabilize the pendulum in its upright position.
